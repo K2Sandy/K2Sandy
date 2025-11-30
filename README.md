@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Kaka
 
+![Tetris Graph](./pacman-contribution-graph.svg)
+
+
 ### **Student Programmer — Still Figuring Things Out**
 
 Welcome to my little corner of GitHub. I'm learning, building, breaking, fixing, and trying again. This is where I store my experiments and progress.
