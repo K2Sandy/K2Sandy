@@ -1,0 +1,27 @@
+name: Generate Tetris Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # runs every 12 hours
+  workflow_dispatch:          # allows manual run
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate pacman-contribution-graph (Tetris-style)
+        uses: abozanona/pacman-contribution-graph-action@v1
+        with:
+          username: K2Sandy
+          output: tetris-contribution-graph.svg
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add tetris-contribution-graph.svg
+          git commit -m "Update Tetris graph"
+          git push
