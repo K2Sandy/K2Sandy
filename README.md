@@ -37,7 +37,7 @@ Some projects I'm working on / experimenting with:
 ## 📊 Stats
 
 ```
-![Kaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K2Sandy&show_icons=true)
+![Kaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K2Sandy&show_icons=true&theme=tokyonight&cache_seconds=86400)
 ```
 
 ---
