@@ -1,16 +1,19 @@
 name: Generate Tetris Graph
 
-# when to run the workflow
 on:
   schedule:
     - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:          # you can run manually
+
+permissions:
+  contents: write            # <-- This is required to push the SVG
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate Tetris Graph
         uses: zluvsand/github-tetris-graph@main
         with:
