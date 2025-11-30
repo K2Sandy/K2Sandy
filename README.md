@@ -36,8 +36,6 @@ Some projects I'm working on / experimenting with:
 
 ## 📊 Stats
 
-> (You can add GitHub stats cards if you want.)
-
 ```
 ![Kaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K2Sandy&show_icons=true)
 ```
