@@ -8,6 +8,7 @@ Welcome to my little corner of GitHub. I'm learning, building, breaking, fixing,
 
 ## 🚀 About Me
 
+* 🏫 First-year Computer Science student at Universitas Syiah Kuala
 * 🔭 Currently learning **C**, **C++**, **Python**, **Arduino**, and general programming basics.
 * 🌱 Slowly exploring **AI**, **web dev**, and anything interesting.
 * 🎯 Goal: Become better than yesterday.
@@ -27,18 +28,10 @@ Here are the tools I'm starting to get comfortable with:
 
 ## 📂 Projects
 
-Some projects I'm working on / experimenting with:
+Some projects I've worked on / experimented with:
 
 * 🌬️ Wind speed & direction detector (Arduino)
-* 🧩 Small coding experiments & learning repos
-
----
-
-## 📊 Stats
-
-```
-![Kaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K2Sandy&show_icons=true&theme=tokyonight&cache_seconds=86400)
-```
+* 🧩 Small coding experiments & learning others repo
 
 ---
 
