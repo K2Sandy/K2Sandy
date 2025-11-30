@@ -35,10 +35,6 @@ Some projects I've worked on / experimented with:
 
 ---
 
-# My GitHub Stats
-
-![Tetris Graph](./pacman-contribution-graph.svg)
-
 ## ✨ Quote I Like
 
 > "Every expert was once a beginner."
