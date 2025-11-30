@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaka
 
-![Tetris Graph](./pacman-contribution-graph.svg)
+![Tetris GitHub Stats](./tetris-contribution-graph.svg)
 
 
 ### **Student Programmer — Still Figuring Things Out**
