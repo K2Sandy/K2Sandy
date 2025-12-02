@@ -42,13 +42,13 @@ Some projects I've worked on / experimented with:
 
 Throughout high school and into early college, I’ve been grateful to earn several awards across different competitions, including:
 
-🥇 Gold Medal — International Indonesia Inventors Day 2025
-🥈 Silver Medal — Mathematics Olympiad at UIN Ar-Raniry
-🥈 2nd Place & 🏅 4th Place — Local U17 Chess Tournaments
-🏅 Finalist & Semi-Finalist — Fast Calculation (Hitung Cepat) Contests
-🥈 Silver Medal — Online Mathematics Olympiad
-🥇🥇🥈 Several Medals — Online English Olympiads
-🥈 2nd Place — “Cerdas Cermat” Quiz Competition
+* 🥇**Gold Medal** — International Indonesia Inventors Day 2025
+* 🥈**Silver Medal** — Mathematics Olympiad at UIN Ar-Raniry
+* 🥈**2nd Place & 🏅 4th Place** — Local U17 Chess Tournaments
+* 🏅**Finalist & Semi-Finalist** — Fast Calculation (Hitung Cepat) Contests
+* 🥈**Silver Medal** — Online Mathematics Olympiad
+* 🥇🥇🥈**Several Medals** — Online English Olympiads
+* 🥈**2nd Place** — “Cerdas Cermat” Quiz Competition
 
 ## ✨ Quote I Like
 
