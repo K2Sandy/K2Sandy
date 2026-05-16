@@ -27,13 +27,15 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 
 ---
 ## 🏆 Highlighted Achievements
-Beyond coding, I actively participate in multidisciplinary competitions to challenge my problem-solving skills:
-- 🥈 **2nd Place** — National Scientific Paper Competition (LKTIN) by IYSA (2026) for GlucoScan App.
-- 🥇 **Gold Medal** — International Indonesia Inventors Day (2025) for Smart Wind Detector.
-- 🏅 **Honorable Mention & 2nd Place** — Local U17 Competitive Chess Tournaments.
-- 🥈 **Silver Medal** — Mathematics Olympiad at UIN Ar-Raniry.
-- 🏅 **Finalist** — Ignite Future Fest (2026) for Rumoh Pulih Educational Platform.
-- 🥇🥇🥈 **Multiple Medals** — Online English & Mathematics Olympiads.
+* 🏅 **Finalist** — 2026 UGM Public Health Hackathon for bridging informatics and digital well-being.
+* 🥈 **2nd Place** — National Scientific Paper Competition (LKTIN) by IYSA for executing a multidisciplinary innovation bridging informatics and healthcare.
+* 🥇 **Gold Medal** — International Indonesia Inventors Day 2025 for technical innovation and functional design.
+* 🏅 **Finalist** — Ignite Future Fest 2026 for developing a conceptual local server-based educational platform.
+* 🏅 **Honorable Mention & 2nd Place** — Local U17 Competitive Chess Tournaments.
+* 🥈 **Silver Medal** — Mathematics Olympiad at UIN Ar-Raniry.
+* 🥇🥈 **Multiple Medals** — Various National Online English & Mathematics Olympiads.
+* 🏅 **Finalist & Semi-Finalist** — Fast Calculation (Hitung Cepat) Contests.
+* 🥈 **2nd Place** — General Knowledge "Cerdas Cermat" Quiz Competition.
 
 ---
 ## ✨ Philosophy
