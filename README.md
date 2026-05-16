@@ -20,7 +20,7 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 
 ---
 ## 📂 Featured Projects
-* **[GlucoScan](https://github.com/K2Sandy/GlucoScan-Android-App)**: An Android app built with Kotlin and Jetpack Compose, using ML Kit OCR to help diabetics extract nutrition data from food labels
+* **[GlucoScan](https://github.com/K2Sandy/GlucoScan-Android-App)**: An Android app built with Kotlin, using ML Kit OCR to help diabetics patients extract nutrition data from food labels.
 * **[Smart Wind Detector](https://github.com/K2Sandy/WindDetector  )**: An IoT-based early warning system integrating hardware sensors with a software backend.
 * **[MindGuard](https://github.com/K2Sandy/MindGuard_Extension)**: A browser extension designed for digital safety and content filtering.
 * **[Escape Disaster](https://github.com/K2Sandy/EscapeDisasterGame_Scratch)**: A mobile-based educational game using the TurboWarp engine to teach early disaster self-rescue procedures.
