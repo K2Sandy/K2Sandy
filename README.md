@@ -28,7 +28,7 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 ---
 ## 🏆 Highlighted Achievements
 * 🏅 **Finalist** — 2026 UGM Public Health Hackathon for developing MindGuard
-* 🥈 **2nd Place** — National Scientific Paper Competition by IYSA for developing Glucoscan.
+* 🥈 **2nd Place** — National Scientific Paper Competition by IYSA for developing GlucoScan.
 * 🥇 **Gold Medal** — International Indonesia Inventors Day 2025 for building an Arduino-based wind monitoring system.
 * 🏅 **Finalist** — Ignite Future Fest 2026 for developing a conceptual local server-based educational platform.
 * 🏅 **4th & 2nd Place** — Local U17 Competitive Chess Tournaments.
