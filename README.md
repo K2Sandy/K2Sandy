@@ -9,7 +9,6 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 </div>
 
 ---
-
 ## 🚀 About Me
 
 * 🏫 First-year Computer Science student at Universitas Syiah Kuala (USK).
@@ -17,7 +16,6 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 * 🎯 Goal: To engineer interdisciplinary tech solutions that make a tangible difference in society.
 
 ---
-
 ## 🛠️ Tech & Tools
 
 * **Languages:** Kotlin, C/C++, Python, JavaScript, HTML/CSS, Bash
@@ -25,7 +23,6 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 * **Tools & OS:** Git, GitHub, VS Code, Figma, Linux
 
 ---
-
 ## 📂 Featured Projects
 
 * 📱 **[GlucoScan](https://github.com/K2Sandy/GlucoScan-Android-App)**: An Android app engineered using Kotlin and Jetpack Compose that utilizes ML Kit OCR to help diabetes patients instantly extract nutritional data from food labels. *(2nd Place at LKTIN IYSA 2026)*
@@ -34,7 +31,6 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 * 🎮 **[Escape Disaster](https://github.com/K2Sandy/EscapeDisasterGame_Scratch)**: A mobile-based educational game using the TurboWarp engine to teach early disaster self-rescue procedures.
 
 ---
-
 ## 🏆 Highlighted Achievements
 
 Beyond coding, I actively participate in multidisciplinary competitions to challenge my problem-solving skills:
@@ -47,7 +43,6 @@ Beyond coding, I actively participate in multidisciplinary competitions to chall
 - 🥇🥇🥈 **Multiple Medals** — Online English & Mathematics Olympiads.
 
 ---
-
 ## ✨ Philosophy
 
 > "Every expert was once a beginner."
