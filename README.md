@@ -20,10 +20,10 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 
 ---
 ## 📂 Featured Projects
-* 📱 **[GlucoScan](https://github.com/K2Sandy/GlucoScan-Android-App)**: An Android app engineered using Kotlin and Jetpack Compose that utilizes ML Kit OCR to help diabetes patients instantly extract nutritional data from food labels. *(2nd Place at LKTIN IYSA 2026)*
-* 🌪️ **[Smart Wind Detector](https://github.com/K2Sandy/WindDetector  )**: An IoT-based early warning system integrating hardware sensors with a software backend. *(Gold Medal at International Indonesia Inventors Day 2025)*
-* 🛡️ **[MindGuard](https://github.com/K2Sandy/MindGuard_Extension)**: A browser extension designed for digital safety and content filtering.
-* 🎮 **[Escape Disaster](https://github.com/K2Sandy/EscapeDisasterGame_Scratch)**: A mobile-based educational game using the TurboWarp engine to teach early disaster self-rescue procedures.
+* **[GlucoScan](https://github.com/K2Sandy/GlucoScan-Android-App)**: An Android app engineered using Kotlin and Jetpack Compose that utilizes ML Kit OCR to help diabetes patients  extract nutritional data from food labels.
+* **[Smart Wind Detector](https://github.com/K2Sandy/WindDetector  )**: An IoT-based early warning system integrating hardware sensors with a software backend.
+* **[MindGuard](https://github.com/K2Sandy/MindGuard_Extension)**: A browser extension designed for digital safety and content filtering.
+* **[Escape Disaster](https://github.com/K2Sandy/EscapeDisasterGame_Scratch)**: A mobile-based educational game using the TurboWarp engine to teach early disaster self-rescue procedures.
 
 ---
 ## 🏆 Highlighted Achievements
