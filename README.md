@@ -1,9 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Kaka
-
 ### **Computer Science Student | Tech Innovator | Open Source Enthusiast**
-
 Welcome to my corner of GitHub! I am a passionate developer who loves bridging informatics with real-world impact, especially in healthcare, education, and digital well-being. I learn by building, breaking, fixing, and trying again.
 
 </div>
