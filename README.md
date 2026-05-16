@@ -12,7 +12,7 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 ## 🚀 About Me
 
 * 🏫 First-year Computer Science student at Universitas Syiah Kuala (USK).
-* 🔭 Currently focused on **Mobile Development (Kotlin)**, **IoT (Arduino/C++)**, and building **User-Centric Solutions**.
+* 🔭 Currently focused on **Mobile App Development **, **IoT (Arduino/C++)**, and building **User-Centric Solutions**.
 * 🎯 Goal: To engineer interdisciplinary tech solutions that make a tangible difference in society.
 
 ---
