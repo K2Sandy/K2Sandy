@@ -1,58 +1,51 @@
 # 👋 Hi, I'm Kaka
 
+### **Computer Science Student | Tech Innovator | Open Source Enthusiast**
 
-### **Student Programmer — Still Figuring Things Out**
-
-Welcome to my little corner of GitHub. I'm learning, building, breaking, fixing, and trying again. This is where I store my experiments and progress.
+Welcome to my corner of GitHub! I am a passionate developer who loves bridging informatics with real-world impact, especially in healthcare, education, and digital well-being. I learn by building, breaking, fixing, and trying again.
 
 ---
 
 ## 🚀 About Me
 
-* 🏫 First-year Computer Science student at Universitas Syiah Kuala
-* 🔭 Currently learning **C**, **C++**, **Python**, **Arduino**, and general programming basics.
-* 🌱 Slowly exploring **AI**, **web dev**, and anything interesting.
-* 🎯 Goal: Become better than yesterday.
-* 🧪 I learn by trying, failing, and trying again.
+* 🏫 First-year Computer Science student at Universitas Syiah Kuala (USK).
+* 🔭 Currently focused on **Mobile Development (Kotlin)**, **IoT (Arduino/C++)**, and building **User-Centric Solutions**.
+* 🎯 Goal: To engineer interdisciplinary tech solutions that make a tangible difference in society.
 
 ---
 
 ## 🛠️ Tech & Tools
 
-Here are the tools I'm starting to get comfortable with:
-
-* **Languages:** C++, Python, HTML/CSS/JS (basics)
-* **Hardware:** Arduino / ESP32
-* **Tools:** VS Code, Git, GitHub
+* **Languages:** Kotlin, C/C++, Python, JavaScript, HTML/CSS, Bash
+* **Frameworks & Tech:** Jetpack Compose, Google ML Kit, Arduino
+* **Tools & OS:** Git, GitHub, VS Code, Figma, Linux
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-Some projects I've worked on / experimented with:
-
-* 🌬️ Wind speed & direction detector (Arduino)
-* 🧩 Small coding experiments & learning others repo
+* 📱 **[GlucoScan](https://github.com/K2Sandy/GlucoScan-Android-App)**: An Android app engineered using Kotlin and Jetpack Compose that utilizes ML Kit OCR to help diabetes patients instantly extract nutritional data from food labels. *(2nd Place at LKTIN IYSA 2026)*
+* 🌪️ **[Smart Wind Detector](https://github.com/K2Sandy/WindDetector  )**: An IoT-based early warning system integrating hardware sensors with a software backend. *(Gold Medal at International Indonesia Inventors Day 2025)*
+* 🛡️ **[MindGuard](https://github.com/K2Sandy/MindGuard_Extension)**: A browser extension designed for digital safety and content filtering.
+* 🎮 **[Escape Disaster](https://github.com/K2Sandy/EscapeDisasterGame_Scratch)**: A mobile-based educational game using the TurboWarp engine to teach early disaster self-rescue procedures.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlighted Achievements
 
-Throughout high school and into early college, I’ve been grateful to earn several awards across different competitions:
+Beyond coding, I actively participate in multidisciplinary competitions to challenge my problem-solving skills:
 
-- 🥇 **Gold Medal** — International Indonesia Inventors Day 2025  
-- 🥈 **Silver Medal** — Mathematics Olympiad at UIN Ar-Raniry  
-- 🥈 **2nd Place** & 🏅 **4th Place** — Local U17 Chess Tournaments  
-- 🏅 **Finalist & Semi-Finalist** — Fast Calculation (Hitung Cepat) Contests  
-- 🥈 **Silver Medal** — Online Mathematics Olympiad  
-- 🥇🥇🥈 **Several Medals** — Online English Olympiads  
-- 🥈 **2nd Place** — “Cerdas Cermat” Quiz Competition  
+- 🥈 **2nd Place** — National Scientific Paper Competition (LKTIN) by IYSA (2026) for GlucoScan App.
+- 🥇 **Gold Medal** — International Indonesia Inventors Day (2025) for Smart Wind Detector.
+- 🏅 **Honorable Mention & 2nd Place** — Local U17 Competitive Chess Tournaments.
+- 🥈 **Silver Medal** — Mathematics Olympiad at UIN Ar-Raniry.
+- 🏅 **Finalist** — Ignite Future Fest (2026) for Rumoh Pulih Educational Platform.
+- 🥇🥇🥈 **Multiple Medals** — Online English & Mathematics Olympiads.
 
+---
 
-## ✨ Quote I Like
+## ✨ Philosophy
 
 > "Every expert was once a beginner."
 
----
-
-Thanks for stopping by 👋
+Thanks for stopping by! Feel free to explore my repositories or reach out. Let's build something awesome. 👋
