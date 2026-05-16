@@ -35,7 +35,6 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 * 🥈 **Silver Medal** — Mathematics Olympiad at UIN Ar-Raniry.
 * 🥇🥈 **Multiple Medals** — Various National Online English & Mathematics Olympiads.
 * 🏅 **Finalist & Semi-Finalist** — Fast Calculation (Hitung Cepat) Contests.
-* 🥈 **2nd Place** — General Knowledge "Cerdas Cermat" Quiz Competition.
 
 ---
 ## ✨ Philosophy
