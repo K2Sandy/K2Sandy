@@ -31,7 +31,7 @@ Welcome to my corner of GitHub! I am a passionate developer who loves bridging i
 * 🥈 **2nd Place** — National Scientific Paper Competition by IYSA for creating Glucoscan, a mobile app to help extract nutritional data.
 * 🥇 **Gold Medal** — International Indonesia Inventors Day 2025 for building an Arduino-based wind monitoring and early warning system.
 * 🏅 **Finalist** — Ignite Future Fest 2026 for developing a conceptual local server-based educational platform.
-* 🏅 **Honorable Mention & 2nd Place** — Local U17 Competitive Chess Tournaments.
+* 🏅 **4th & 2nd Place** — Local U17 Competitive Chess Tournaments.
 * 🥈 **Silver Medal** — Mathematics Olympiad at UIN Ar-Raniry.
 * 🥇🥈 **Multiple Medals** — Various National Online English & Mathematics Olympiads.
 * 🏅 **Finalist & Semi-Finalist** — Fast Calculation (Hitung Cepat) Contests.
